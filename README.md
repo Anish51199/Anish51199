@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anish51199
 - 👀 I’m interested in software development and machine learning.
-- 🌱 In learning mode.
+- 🌱 Always in learning mode.
 - 💞️ I’m looking to collaborate on development projects.
 - 📫 Reach me at ranjan.anish51199@gmail.com
 
